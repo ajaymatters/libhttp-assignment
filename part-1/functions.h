@@ -1,0 +1,12 @@
+#define HOME_URI "/"
+#define SQUARE_URI "/square"
+#define CUBE_URI "/cube"
+#define HELLO_URI "/hello"
+#define PRIME_URI "/prime"
+#define PINGPONG_URI "/pingpong"
+#define HOME 0
+#define SQUARE 1
+#define CUBE 2
+#define HELLO 3
+#define PRIME 4
+#define PINGPONG 5 
